@@ -1,0 +1,16 @@
+let name = "Name    : Harshdeep Gill";
+let school = "School  : The Indian Public School";
+let grade = "Grade   : A";
+let section = "Section : D";
+let roll = "Roll No.: 43";
+let subjects = "  Hindi  | English |  Maths  ";
+let pattren = "---------|---------|---------";
+let marks = "    94   |    78   |    89   ";
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(roll+"\n");
+console.log(subjects);
+console.log(pattren);
+console.log(marks);
